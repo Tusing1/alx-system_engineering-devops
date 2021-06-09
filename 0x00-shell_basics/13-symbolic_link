@@ -1,2 +1,2 @@
 #!/bin/bash
-uname 
+ln -s /path/ link_name
